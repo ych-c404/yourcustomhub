@@ -14,15 +14,21 @@ header{
 text-align:center;
 padding:60px 20px;
 }
-h1{color:#ff8c00;}
 .btn{
 background:#ff8c00;
 color:#fff;
-padding:12px 20px;
+padding:18px 36px;
 text-decoration:none;
-border-radius:8px;
+border-radius:12px;
 display:inline-block;
-margin-top:10px;
+margin-top:20px;
+font-size:24px;
+font-weight:bold;
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.05);
 }
 section{padding:30px 20px;}
 .card{
