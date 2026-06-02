@@ -1,0 +1,27 @@
+body{
+background:#111;
+color:#fff;
+font-family:Arial,sans-serif;
+margin:0;
+}
+header{
+text-align:center;
+padding:60px 20px;
+}
+h1{color:#ff8c00;}
+.btn{
+background:#ff8c00;
+color:#fff;
+padding:12px 20px;
+text-decoration:none;
+border-radius:8px;
+display:inline-block;
+margin-top:10px;
+}
+section{padding:30px 20px;}
+.card{
+background:#1c1c1c;
+padding:15px;
+margin:10px 0;
+border-left:4px solid #ff8c00;
+}
